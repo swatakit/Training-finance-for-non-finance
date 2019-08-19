@@ -1,4 +1,4 @@
-# VBA for Data Wrangling
+# Finance for Non-Finance
 
 This repository is a collection teaching material that I used to provide to undergrate/grads students. It also contains simple financial calculation in excel, and how to complete it in VBA.
 
